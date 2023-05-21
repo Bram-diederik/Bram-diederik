@@ -2,10 +2,6 @@
 - 👋 Hi, I’m @Bram-diederik I'm a software test engineer. That can write long boring test specs and can write sexy test automatons. 
 - This page contains all kind of personal development. 
 - Dont Expect easy to install programs on my repositories. I am not a professional programmer. Just coding stuff that is beond the creative capabilities of the regulair programmer. 
-- For any contact linkedin prefered:
-- https://www.linkedin.com/in/bram-diederik-2b97223/ 
-- https://twitter.com/bdiederik 
-- https://www.youtube.com/channel/UCHR5qw5Asd-boAo205MIoQw
 
 
 # Blue-mage
