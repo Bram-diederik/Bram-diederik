@@ -8,6 +8,9 @@
 ![image](https://github.com/Bram-diederik/Bram-diederik/assets/53519837/80041a3d-8340-4944-9a74-7de338c38c61)
 My ThinkPad P14s Gen 2a Kubuntu GNU/Linux Laptop. With my own hacked [home assistant widgets](https://community.home-assistant.io/t/kde-widgets/552152). 
 
+# Doorman
+![image](./16898013442449084130202921961960.jpg)
+
 # Karin
 ![image](https://github.com/Bram-diederik/Bram-diederik/assets/53519837/aae3dc70-90fe-4f1d-93a3-02b13b35c512)
 My Home assistant server running on a raspberry PI 4. I use snapcast and raspberry pi's for a multi room speaker environment. Mainly with use with mpd that can be controlled by sascha. 
