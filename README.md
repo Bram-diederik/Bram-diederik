@@ -10,23 +10,34 @@ My ThinkPad P14s Gen 2a Kubuntu GNU/Linux Laptop. With my own hacked [home assis
 
 # Doorman
 ![image](./16898013442449084130202921961960.jpg)
+My raspberry pi replacement. a celeron 12th gen with 16gig mem. 
+running good old debian. with libvirt and docker containers
+
+it running the following virtual machines
 
 # Karin
 ![image](https://github.com/Bram-diederik/Bram-diederik/assets/53519837/aae3dc70-90fe-4f1d-93a3-02b13b35c512)
-My Home assistant server running on a raspberry PI 4. I use snapcast and raspberry pi's for a multi room speaker environment. Mainly with use with mpd that can be controlled by sascha. 
+My Home assistant server. I use snapcast and raspberry pi's for a multi room speaker environment. Mainly with use with mpd that can be controlled by sascha. I have a voip phones.
 
 
 # Sascha
 My phone assistant asterisk scripts.  If im busy my phone redirects to my landline connected to asterisk and tells the caller im busy. With options to leave a voicemail and certain contacts can call me anyway. 
 https://github.com/Bram-diederik/asterisk-homeassistant-tools
 
-# Gnomepub and Hushhush
+# Hushhush
 ![image](https://github.com/Bram-diederik/secureVPNwithLocalLan/raw/main/images/vpnMap.drawio.png)
 - I did not find a good VPN system that allowes a anonymous vpn connection to the internet but with access to your local network. 
 - Gnomepub is a normal openvpn/wireguard vpn server but with special ip rules
 - rules redirect all network from the incomming vpn clients to hushhush
 - hushhush is connected to a single vpn server forwarding incoming network over that vpn. 
 - https://github.com/Bram-diederik/secureVPNwithLocalLan
+
+#ip switcher
+![image](https://raw.githubusercontent.com/Bram-diederik/ip-rule-switcher/main/images/ip-rule-switcher.png)
+
+To goto hushhush i made code for doorman to select route and dns for ip addesses. 
+
+off course with home assistant integration.
 
 
 
