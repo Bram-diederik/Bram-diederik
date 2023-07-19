@@ -34,9 +34,9 @@ https://github.com/Bram-diederik/asterisk-homeassistant-tools
 # ip switcher
 ![image](https://raw.githubusercontent.com/Bram-diederik/ip-rule-switcher/main/images/ip-rule-switcher.png)
 
-To goto hushhush i made code for doorman to select route and dns for ip addesses. 
-
-off course with home assistant integration.
+With inspiration of the hushhush setup i made code for doorman to select route and dns for ip addesses. 
+off course with home assistant integration. 
+Block internet to a device. Set your kids devices to limited access when its time for home work. Get VPN on selected clients with out client config. all posiblilities. 
 
 https://github.com/Bram-diederik/ip-rule-switcher
 
