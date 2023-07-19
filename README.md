@@ -27,12 +27,11 @@ https://github.com/Bram-diederik/asterisk-homeassistant-tools
 # Hushhush
 ![image](https://github.com/Bram-diederik/secureVPNwithLocalLan/raw/main/images/vpnMap.drawio.png)
 - I did not find a good VPN system that allowes a anonymous vpn connection to the internet but with access to your local network. 
-- Gnomepub is a normal openvpn/wireguard vpn server but with special ip rules
-- rules redirect all network from the incomming vpn clients to hushhush
-- hushhush is connected to a single vpn server forwarding incoming network over that vpn. 
+- hushhush is connected to a single vpn server forwarding incoming network over that vpn.
+- It comes with rules to make the vpn be used by incomming vpns but i dont use that anymore.
 - https://github.com/Bram-diederik/secureVPNwithLocalLan
 
-#ip switcher
+# ip switcher
 ![image](https://raw.githubusercontent.com/Bram-diederik/ip-rule-switcher/main/images/ip-rule-switcher.png)
 
 To goto hushhush i made code for doorman to select route and dns for ip addesses. 
