@@ -38,6 +38,8 @@ To goto hushhush i made code for doorman to select route and dns for ip addesses
 
 off course with home assistant integration.
 
+https://github.com/Bram-diederik/ip-rule-switcher
+
 
 
 
