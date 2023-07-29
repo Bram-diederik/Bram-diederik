@@ -6,12 +6,12 @@
 
 # Blue-mage
 ![image](https://github.com/Bram-diederik/Bram-diederik/assets/53519837/80041a3d-8340-4944-9a74-7de338c38c61)
-My ThinkPad P14s Gen 2a Kubuntu GNU/Linux Laptop. With my own hacked [home assistant widgets](https://community.home-assistant.io/t/kde-widgets/552152). 
+My ThinkPad P14s Gen 2a Debian GNU/Linux Laptop. With my own hacked [home assistant widgets](https://community.home-assistant.io/t/kde-widgets/552152). 
 
 # Doorman
 ![image](./16898013442449084130202921961960.jpg)
 My raspberry pi replacement. a celeron 12th gen with 16gig mem. 
-running good old debian. with libvirt and docker containers
+running debian. with libvirt and docker containers
 
 it running the following virtual machines
 
@@ -39,14 +39,6 @@ off course with home assistant integration.
 Block internet to a device. Set your kids devices to limited access when its time for home work. Get VPN on selected clients with out client config. all posiblilities. 
 
 https://github.com/Bram-diederik/ip-rule-switcher
-
-
-
-
-
-
-
-
 <!---
 Bram-diederik/Bram-diederik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
