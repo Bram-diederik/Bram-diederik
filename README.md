@@ -1,9 +1,10 @@
 # About Bram Diederik Aka Daft_dutch
 - 👋 Hi, I’m @Bram-diederik I'm a software test engineer. That can write long boring test specs and can create sexy test automatons. 
 - This page contains all kind of personal development. 
-- Dont Expect easy to install programs on my repositories. I am not a professional programmer. Just coding stuff that is beond the creative capabilities of a regulair programmer. 
+- Dont Expect easy to install programs on my repositories. I am not a professional programmer. Just coding stuff that is beond the creative capabilities of a regular programmer. 
 
 
+![](https://komarev.com/ghpvc/?username=Bram-diederik)
 # Blue-mage
 ![image](https://github.com/Bram-diederik/Bram-diederik/assets/53519837/80041a3d-8340-4944-9a74-7de338c38c61)
 My ThinkPad P14s Gen 2a Debian GNU/Linux Laptop. With my own hacked [home assistant widgets](https://community.home-assistant.io/t/kde-widgets/552152). 
