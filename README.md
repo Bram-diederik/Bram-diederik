@@ -6,7 +6,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Bram-diederik)
 # Blue-mage
-![image](https://github.com/Bram-diederik/Bram-diederik/assets/53519837/ec78f531-422b-43f1-835c-45d454ab7058)
+![afbeelding](https://github.com/Bram-diederik/Bram-diederik/assets/53519837/764d4e35-e93c-4de7-876d-0137a2ed0143)
+
 
 My ThinkPad P14s Gen 2a Debian GNU/Linux Laptop. With my own hacked [home assistant widgets](https://community.home-assistant.io/t/kde-widgets/552152). 
 
