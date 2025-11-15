@@ -26,7 +26,8 @@ My Home assistant server. I use snapcast and raspberry pi's for a multi room spe
 
 # Sascha
 My phone assistant asterisk scripts.  If im busy my phone redirects to my landline connected to asterisk and tells the caller im busy. With options to leave a voicemail and certain contacts can call me anyway. 
-https://github.com/Bram-diederik/asterisk-homeassistant-tools
+Latest development has AI that anyone can confince to call me anyway. the hospital or police for example. 
+https://github.com/Bram-diederik/asterisk-homeassistant-tools (horrorably falling behind)
 
 # Hushhush
 ![image](https://github.com/Bram-diederik/secureVPNwithLocalLan/raw/main/images/vpnMap.drawio.png)
